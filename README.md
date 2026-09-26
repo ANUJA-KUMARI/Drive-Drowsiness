@@ -277,8 +277,15 @@ Live Status
 The demonstration is intended to show the trained model working on live camera frames.
 
 ---
+## Current Repository Structure
 
-## Repository Structure
+```text
+Drive-Drowsiness/
+├── 01_EDA.ipynb
+├── 02_Preprocessing.ipynb
+└── README.md
+
+## Planned Repository Structure
 
 The repository will gradually expand to:
 
